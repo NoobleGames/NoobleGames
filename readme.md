@@ -3,16 +3,15 @@
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobleGames&layout=compact&theme=dark)
 
 ## About Me
-- 🔭 I’m currently working on [Your Project Name](link-to-your-project)
-- 🌱 I’m learning [New Language/Technology]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [myemail@example.com](mailto:myemail@example.com)
+- 🔭 I’m currently working on [Nooble Games](https://nooblegames.github.io)
+- 🌱 I’m learning [React]
+- 💬 Ask me about [Errors Or Java]
+- 📫 How to reach me: [itsyodaisuke@gmail.com](mailto:itsyodaisuke@gmail.com)
 
 ## Technologies & Tools
 - JavaScript
 - Python
-- Unity
+- Html
+- React
 
-## Connect with Me
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
+
