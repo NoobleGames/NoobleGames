@@ -4,8 +4,8 @@
 
 ## About Me
 - 🔭 I’m currently working on [Nooble Games](https://nooblegames.github.io)
-- 🌱 I’m learning [React]
-- 💬 Ask me about [Errors Or Java]
+- 🌱 I’m learning - React
+- 💬 Ask me about - Errors Or Java
 - 📫 How to reach me: [itsyodaisuke@gmail.com](mailto:itsyodaisuke@gmail.com)
 
 ## Technologies & Tools
