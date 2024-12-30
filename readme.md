@@ -1,12 +1,12 @@
 # Welcome to NoobleGames' GitHub Profile!
 
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobleGames&layout=compact&theme=dark)
+![Our Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobleGames&layout=compact&theme=dark)
 
-## About Me
-- 🔭 I’m currently working on [Nooble Games](https://nooblegames.github.io)
-- 🌱 I’m learning - React
+## About Us
+- 🔭 Owner - https://chiphill.github.io/
 - 💬 Ask me about - Errors Or Java
-- 📫 How to reach me: [itsyodaisuke@gmail.com](mailto:itsyodaisuke@gmail.com)
+- 📫 How to reach us: [itsyodaisuke@gmail.com](mailto:itsyodaisuke@gmail.com)
+-
 
 ## Technologies & Tools
 - JavaScript
